@@ -1,0 +1,330 @@
+shot_x,shot_y,shot_type,shot_distance_feet,very left or very right shot,left or right shot,rebound_x,rebound_y,rebound_distance_feet,left or right rebound,weak or strong rebound
+213,491,2PA,7.72,very left,left,285,518,2.55,left,strong
+304,509,2PA,2.71,left,left,319,528,1.64,right,N/A
+276,245,3PA,21.57,left,left,439,533,9.51,right,N/A
+362,522,2PA,4.36,right,right,346,512,3.78,right,N/A
+413,253,3PA,22.24,very right,right,492,526,13.31,right,strong
+391,250,3PA,21.96,very right,right,321,503,3.30,right,strong
+457,533,2PA,10.78,very right,right,245,530,4.50,left,weak
+302,473,2PA,5.27,left,left,287,498,3.74,left,N/A
+303,241,3PA,21.75,left,left,222,517,6.34,left,N/A
+77,357,3PA,21.15,very left,left,341,515,3.37,right,weak
+322,518,2PA,2.35,right,right,337,533,2.42,right,N/A
+243,505,2PA,5.38,left,left,351,508,4.23,right,N/A
+524,506,2PA,15.77,very right,right,347,508,4.02,right,strong
+263,529,2PA,3.31,left,left,276,524,2.69,left,N/A
+338,528,2PA,2.65,right,right,309,522,1.79,right,N/A
+434,277,3PA,21.24,very right,right,457,547,10.73,right,strong
+494,319,3PA,21.01,very right,right,329,509,3.16,right,strong
+49,492,2PA,18.68,very left,left,394,467,8.45,right,weak
+340,310,2PA,17.02,right,right,344,504,4.08,right,N/A
+259,508,2PA,4.34,left,left,334,519,2.82,right,N/A
+157,536,2PA,10.62,very left,left,246,495,5.64,left,strong
+68,387,3PA,20.39,very left,left,444,556,9.83,right,weak
+478,484,2PA,13.02,very right,right,269,516,3.43,left,weak
+137,496,2PA,12.55,very left,left,354,512,4.22,right,weak
+383,500,2PA,6.41,very right,right,330,520,2.57,right,strong
+345,485,2PA,5.21,right,right,346,512,3.78,right,N/A
+426,360,2PA,15.80,very right,right,275,508,3.54,left,weak
+451,283,3PA,21.41,very right,right,273,491,4.62,left,weak
+583,499,3PA,19.99,very right,right,237,510,5.57,left,weak
+358,491,2PA,5.43,right,right,268,509,3.82,left,N/A
+193,500,2PA,8.70,very left,left,280,534,2.07,left,strong
+413,485,2PA,8.79,very right,right,343,517,3.39,right,strong
+306,238,3PA,21.97,right,right,301,513,2.44,left,N/A
+294,429,2PA,8.43,left,left,277,498,4.05,left,N/A
+45,413,3PA,20.86,very left,left,337,500,4.00,right,weak
+280,252,3PA,21.05,left,left,311,466,5.77,right,N/A
+558,406,3PA,20.53,very right,right,242,481,6.54,left,weak
+50,400,3PA,20.99,very left,left,397,472,8.38,right,weak
+153,428,2PA,13.78,very left,left,403,494,7.86,right,weak
+144,525,2PA,11.62,very left,left,224,521,6.12,left,strong
+243,248,3PA,21.72,left,left,342,450,7.36,right,N/A
+281,314,2PA,16.66,left,left,338,434,8.35,right,N/A
+195,255,3PA,22.21,very left,left,258,518,3.99,left,strong
+290,238,3PA,22.00,left,left,275,501,3.94,left,N/A
+473,258,3PA,23.73,very right,right,247,288,18.88,left,weak
+142,277,3PA,22.46,very left,left,79,475,16.93,left,strong
+526,346,3PA,21.18,very right,right,298,489,4.16,left,weak
+475,386,2PA,16.59,very right,right,275,497,4.18,left,weak
+309,327,2PA,15.64,right,right,241,500,5.70,left,N/A
+102,329,3PA,21.22,very left,left,205,522,7.40,left,strong
+257,453,2PA,7.54,left,left,307,498,3.48,right,N/A
+316,478,2PA,4.96,right,right,323,501,3.49,right,N/A
+111,300,3PA,22.37,very left,left,132,411,15.70,left,strong
+304,477,2PA,4.98,left,left,299,491,4.01,left,N/A
+380,500,2PA,6.23,very right,right,307,493,3.84,right,strong
+415,462,2PA,9.83,very right,right,276,529,2.49,left,weak
+58,400,3PA,20.49,very left,left,196,487,8.91,left,strong
+324,312,2PA,16.76,right,right,280,500,3.82,left,N/A
+200,260,3PA,21.75,very left,left,346,508,3.97,right,weak
+276,516,2PA,3.07,left,left,343,522,3.17,right,N/A
+289,246,3PA,21.43,left,left,198,461,9.81,left,N/A
+343,534,2PA,2.79,right,right,343,535,2.77,right,N/A
+190,480,2PA,9.52,very left,left,324,486,4.52,right,weak
+404,463,2PA,9.18,very right,right,319,457,6.46,right,strong
+314,456,2PA,6.49,right,right,312,485,4.43,right,N/A
+568,437,3PA,20.20,very right,right,447,440,12.58,right,strong
+402,258,3PA,21.65,very right,right,478,499,12.69,right,strong
+381,497,2PA,6.41,very right,right,279,512,3.14,left,weak
+206,488,2PA,8.25,very left,left,248,500,5.31,left,strong
+314,227,3PA,22.76,right,right,391,434,10.05,right,N/A
+193,533,2PA,8.09,very left,left,353,529,3.58,right,weak
+564,448,3PA,19.65,very right,right,211,517,7.08,left,weak
+349,520,2PA,3.61,right,right,293,514,2.52,left,N/A
+522,338,3PA,21.37,very right,right,470,527,11.75,right,strong
+284,458,2PA,6.52,left,left,336,499,4.02,right,N/A
+52,388,3PA,21.30,very left,left,349,513,3.90,right,weak
+312,450,2PA,6.91,right,right,326,522,2.28,right,N/A
+558,394,3PA,20.96,very right,right,349,513,3.90,right,strong
+310,245,3PA,21.47,right,right,370,529,4.73,right,N/A
+514,522,2PA,14.89,very right,right,258,522,3.85,left,weak
+326,439,2PA,7.81,right,right,334,496,4.14,right,N/A
+94,344,3PA,20.87,very left,left,353,529,3.58,right,weak
+93,344,3PA,20.92,very left,left,321,495,3.85,right,weak
+598,529,3PA,20.80,very right,right,387,526,5.95,right,strong
+520,348,3PA,20.77,very right,right,358,515,4.34,right,strong
+180,274,3PA,21.37,very left,left,190,476,9.67,left,strong
+129,307,3PA,21.20,very left,left,341,500,4.17,right,weak
+236,507,2PA,5.73,very left,left,357,526,3.92,right,weak
+307,247,3PA,21.33,right,right,238,522,5.15,left,N/A
+276,494,2PA,4.33,left,left,300,505,3.02,left,N/A
+387,455,2PA,8.71,very right,right,339,496,4.32,right,strong
+312,463,2PA,5.99,right,right,333,514,3.03,right,N/A
+22,527,3PA,20.24,very left,left,253,526,4.05,left,strong
+547,372,3PA,21.17,very right,right,348,511,3.93,right,strong
+485,308,3PA,21.23,very right,right,312,471,5.42,right,strong
+17,520,3PA,20.63,very left,left,360,515,4.46,right,weak
+299,460,2PA,6.20,left,left,290,524,1.99,left,N/A
+422,262,3PA,21.87,very right,right,287,503,3.41,left,weak
+334,455,2PA,6.84,right,right,353,506,4.43,right,N/A
+504,461,2PA,15.35,very right,right,349,522,3.54,right,strong
+304,457,2PA,6.40,left,left,328,535,1.78,right,N/A
+590,492,3PA,20.56,very right,right,258,502,4.68,left,weak
+324,219,3PA,23.35,right,right,345,509,3.87,right,N/A
+201,493,2PA,8.39,very left,left,346,525,3.25,right,weak
+305,215,3PA,23.60,left,left,412,460,9.75,right,N/A
+418,373,2PA,14.71,very right,right,208,492,7.99,left,weak
+280,515,2PA,2.93,left,left,291,510,2.84,left,N/A
+542,342,3PA,22.22,very right,right,447,539,10.04,right,strong
+124,424,2PA,15.62,very left,left,282,539,1.80,left,strong
+331,375,2PA,12.36,right,right,327,487,4.52,right,N/A
+419,498,2PA,8.76,very right,right,279,511,3.20,left,weak
+594,487,3PA,20.91,very right,right,253,518,4.29,left,weak
+404,254,3PA,21.96,very right,right,356,499,4.93,right,strong
+88,323,3PA,22.22,very left,left,353,502,4.63,right,weak
+113,519,2PA,13.86,very left,left,343,509,3.77,right,weak
+289,466,2PA,5.88,left,left,328,499,3.75,right,N/A
+127,292,3PA,22.15,very left,left,367,316,16.98,right,weak
+279,509,2PA,3.31,left,left,307,493,3.84,right,N/A
+346,398,2PA,10.97,right,right,338,473,5.73,right,N/A
+435,282,3PA,20.95,very right,right,302,503,3.14,left,weak
+417,248,3PA,22.67,very right,right,290,494,3.94,left,weak
+341,498,2PA,4.28,right,right,285,512,2.90,left,N/A
+218,258,3PA,21.48,very left,left,394,445,9.58,right,weak
+494,311,3PA,21.45,very right,right,344,513,3.62,right,strong
+358,521,2PA,4.13,right,right,294,518,2.23,left,N/A
+27,490,3PA,20.24,very left,left,353,511,4.21,right,weak
+131,462,2PA,13.83,very left,left,261,499,4.68,left,strong
+532,521,2PA,16.17,very right,right,273,518,3.12,left,weak
+22,505,3PA,20.41,very left,left,426,526,8.66,right,weak
+514,335,3PA,21.11,very right,right,306,485,4.41,right,strong
+337,376,2PA,12.35,right,right,279,515,2.98,left,N/A
+39,432,3PA,20.67,very left,left,297,498,3.54,left,strong
+595,485,3PA,21.01,very right,right,362,477,6.37,right,strong
+482,407,2PA,15.99,very right,right,337,515,3.17,right,strong
+195,343,2PA,16.51,very left,left,330,499,3.82,right,weak
+120,470,2PA,14.31,very left,left,349,513,3.90,right,weak
+207,342,2PA,16.18,very left,left,212,507,7.26,left,strong
+579,425,3PA,21.26,very right,right,255,522,4.04,left,weak
+411,254,3PA,22.13,very right,right,249,478,6.36,left,weak
+115,328,3PA,20.66,very left,left,282,506,3.38,left,strong
+31,473,3PA,20.25,very left,left,342,494,4.55,right,weak
+307,228,3PA,22.68,right,right,232,508,5.95,left,N/A
+149,419,2PA,14.40,very left,left,271,451,7.26,left,strong
+287,476,2PA,5.22,left,left,275,518,3.02,left,N/A
+598,500,3PA,21.03,very right,right,354,504,4.58,right,strong
+461,386,2PA,15.89,very right,right,286,522,2.28,left,weak
+69,362,3PA,21.37,very left,left,356,518,4.11,right,weak
+288,516,2PA,2.55,left,left,299,508,2.82,left,N/A
+42,406,3PA,21.28,very left,left,224,510,6.40,left,strong
+458,282,3PA,21.72,very right,right,272,509,3.62,left,weak
+356,431,2PA,8.98,right,right,278,511,3.24,left,N/A
+593,505,3PA,20.62,very right,right,313,492,3.94,right,strong
+307,486,2PA,4.34,right,right,297,510,2.71,left,N/A
+481,277,3PA,22.87,very right,right,266,512,3.78,left,weak
+100,334,3PA,21.07,very left,left,336,500,3.96,right,weak
+17,528,3PA,20.59,very left,left,369,518,4.93,right,weak
+236,484,2PA,6.69,very left,left,306,498,3.48,right,weak
+279,517,2PA,2.87,left,left,320,512,2.68,right,N/A
+282,516,2PA,2.79,left,left,336,519,2.92,right,N/A
+433,537,2PA,9.06,very right,right,320,518,2.29,right,strong
+307,246,3PA,21.40,right,right,230,464,8.00,left,N/A
+353,518,2PA,3.93,right,right,295,532,1.32,left,N/A
+443,243,3PA,23.70,very right,right,225,513,6.25,left,weak
+435,284,3PA,20.82,very right,right,304,369,12.65,left,weak
+587,457,3PA,20.98,very right,right,434,398,13.96,right,strong
+414,277,3PA,20.67,very right,right,286,497,3.83,left,weak
+273,516,2PA,3.22,left,left,277,531,2.35,left,N/A
+347,514,2PA,3.74,right,right,284,523,2.31,left,N/A
+500,283,3PA,23.29,very right,right,387,511,6.30,right,strong
+190,277,3PA,20.89,very left,left,348,519,3.59,right,weak
+20,521,3PA,20.42,very left,left,341,510,3.62,right,weak
+358,490,2PA,5.49,right,right,285,527,2.06,left,N/A
+356,497,2PA,5.03,right,right,288,523,2.13,left,N/A
+521,346,3PA,20.92,very right,right,264,522,3.47,left,weak
+306,353,2PA,13.79,right,right,309,494,3.77,right,N/A
+392,247,3PA,22.19,very right,right,291,512,2.71,left,weak
+590,478,3PA,20.78,very right,right,175,523,9.47,left,weak
+43,430,3PA,20.46,very left,left,371,519,5.03,right,weak
+287,469,2PA,5.71,left,left,299,507,2.89,left,N/A
+23,510,3PA,20.29,very left,left,216,505,7.06,left,strong
+295,324,2PA,15.87,left,left,270,526,2.96,left,N/A
+236,487,2PA,6.55,very left,left,284,516,2.70,left,strong
+141,307,3PA,20.70,very left,left,139,411,15.31,left,strong
+349,493,2PA,4.91,right,right,307,507,2.84,right,N/A
+576,396,3PA,21.99,very right,right,306,467,5.69,right,strong
+275,507,2PA,3.60,left,left,335,514,3.12,right,N/A
+445,253,3PA,23.12,very right,right,300,498,3.51,left,weak
+312,460,2PA,6.20,right,right,294,503,3.24,left,N/A
+192,268,3PA,21.43,very left,left,328,489,4.41,right,weak
+511,323,3PA,21.59,very right,right,245,500,5.47,left,weak
+419,270,3PA,21.27,very right,right,270,521,3.16,left,weak
+266,319,2PA,16.46,left,left,256,511,4.38,left,N/A
+356,243,3PA,21.90,right,right,252,518,4.36,left,N/A
+31,425,3PA,21.39,very left,left,279,519,2.77,left,strong
+352,497,2PA,4.83,right,right,340,518,3.18,right,N/A
+30,432,3PA,21.26,very left,left,206,514,7.49,left,strong
+197,267,3PA,21.36,very left,left,419,474,9.56,right,weak
+476,522,2PA,12.22,very right,right,379,510,5.82,right,strong
+153,257,3PA,23.31,very left,left,427,513,8.94,right,weak
+133,544,2PA,12.30,very left,left,396,541,6.41,right,weak
+38,430,3PA,20.79,very left,left,382,513,5.92,right,weak
+436,282,3PA,20.98,very right,right,361,502,5.05,right,strong
+541,358,3PA,21.44,very right,right,249,454,7.75,left,weak
+461,287,3PA,21.52,very right,right,142,508,11.98,left,weak
+380,252,3PA,21.62,very right,right,266,522,3.35,left,weak
+277,502,2PA,3.81,left,left,316,509,2.79,right,N/A
+569,406,3PA,21.21,very right,right,251,518,4.42,left,weak
+348,520,2PA,3.55,right,right,334,510,3.30,right,N/A
+246,518,2PA,4.74,left,left,282,510,3.14,left,N/A
+149,292,3PA,21.29,very left,left,183,519,8.97,left,strong
+251,248,3PA,21.61,left,left,332,506,3.45,right,N/A
+233,241,3PA,22.36,very left,left,280,503,3.63,left,strong
+22,468,3PA,20.96,very left,left,284,444,7.49,left,strong
+324,489,2PA,4.32,right,right,302,506,2.93,left,N/A
+535,361,3PA,20.97,very right,right,370,498,5.73,right,strong
+174,265,3PA,22.13,very left,left,319,491,4.09,right,weak
+550,397,3PA,20.36,very right,right,206,476,8.72,left,weak
+279,322,2PA,16.11,left,left,330,514,2.90,right,N/A
+463,257,3PA,23.44,very right,right,274,497,4.22,left,weak
+27,483,3PA,20.35,very left,left,359,490,5.53,right,weak
+27,496,3PA,20.16,very left,left,316,509,2.79,right,weak
+335,225,3PA,22.98,right,right,282,505,3.44,left,N/A
+24,487,3PA,20.50,very left,left,321,495,3.85,right,weak
+472,301,3PA,21.10,very right,right,359,510,4.60,right,strong
+446,283,3PA,21.24,very right,right,271,514,3.42,left,weak
+333,240,3PA,21.91,right,right,320,502,3.35,right,N/A
+354,498,2PA,4.88,right,right,297,507,2.91,left,N/A
+378,495,2PA,6.31,very right,right,320,498,3.62,right,strong
+471,493,2PA,12.34,very right,right,263,522,3.54,left,weak
+494,321,3PA,20.90,very right,right,217,508,6.91,left,weak
+275,491,2PA,4.55,left,left,288,493,4.05,left,N/A
+89,351,3PA,20.79,very left,left,231,464,7.95,left,strong
+239,487,2PA,6.39,left,left,309,505,2.99,right,N/A
+335,489,2PA,4.61,right,right,283,525,2.26,left,N/A
+378,246,3PA,22.00,very right,right,267,493,4.74,left,weak
+155,284,3PA,21.56,very left,left,285,486,4.59,left,strong
+345,504,2PA,4.13,right,right,273,511,3.47,left,N/A
+332,491,2PA,4.39,right,right,295,515,2.41,left,N/A
+126,298,3PA,21.84,very left,left,411,478,8.93,right,weak
+29,473,3PA,20.38,very left,left,365,510,4.95,right,weak
+194,497,2PA,8.72,very left,left,323,505,3.22,right,weak
+336,321,2PA,16.21,right,right,305,481,4.69,left,N/A
+310,242,3PA,21.68,right,right,253,493,5.38,left,N/A
+98,291,3PA,23.45,very left,left,348,498,4.59,right,weak
+270,451,2PA,7.29,left,left,335,473,5.65,right,N/A
+240,242,3PA,22.18,left,left,339,500,4.08,right,N/A
+263,500,2PA,4.53,left,left,279,512,3.14,left,N/A
+522,342,3PA,21.17,very right,right,367,504,5.31,right,strong
+371,524,2PA,4.90,right,right,312,503,3.16,right,N/A
+299,245,3PA,21.47,left,left,412,486,8.69,right,N/A
+260,513,2PA,4.07,left,left,345,514,3.63,right,N/A
+562,393,3PA,21.24,very right,right,237,507,5.67,left,weak
+110,328,3PA,20.89,very left,left,300,473,5.28,left,strong
+267,506,2PA,4.02,left,left,285,513,2.84,left,N/A
+354,229,3PA,22.86,right,right,333,484,4.87,right,N/A
+216,250,3PA,22.06,very left,left,238,485,6.54,left,strong
+370,475,2PA,6.85,right,right,337,487,4.80,right,N/A
+546,371,3PA,21.16,very right,right,247,466,7.12,left,weak
+110,301,3PA,22.36,very left,left,243,461,7.58,left,strong
+466,521,2PA,11.52,very right,right,245,522,4.69,left,weak
+576,433,3PA,20.84,very right,right,264,499,4.53,left,weak
+410,486,2PA,8.57,very right,right,348,528,3.28,right,strong
+242,503,2PA,5.52,left,left,274,503,3.87,left,N/A
+323,475,2PA,5.26,right,right,326,514,2.74,right,N/A
+120,422,2PA,15.93,very left,left,268,503,4.13,left,strong
+574,434,3PA,20.68,very right,right,342,477,5.60,right,strong
+437,274,3PA,21.53,very right,right,287,494,4.00,left,weak
+487,297,3PA,21.94,very right,right,258,502,4.68,left,weak
+308,458,2PA,6.33,right,right,283,498,3.85,left,N/A
+372,332,2PA,15.99,right,right,233,495,6.37,left,N/A
+270,229,3PA,22.75,left,left,292,487,4.38,left,N/A
+212,492,2PA,7.74,very left,left,328,508,3.18,right,weak
+347,505,2PA,4.17,right,right,278,514,3.08,left,N/A
+413,261,3PA,21.71,very right,right,277,506,3.57,left,weak
+103,328,3PA,21.23,very left,left,364,501,5.26,right,weak
+123,507,2PA,13.32,very left,left,341,518,3.23,right,weak
+197,499,2PA,8.47,very left,left,275,517,3.07,left,strong
+245,507,2PA,5.19,left,left,335,518,2.92,right,N/A
+226,502,2PA,6.53,very left,left,292,503,3.28,left,strong
+184,261,3PA,22.10,very left,left,402,440,10.22,right,weak
+136,359,2PA,18.02,very left,left,317,502,3.29,right,weak
+270,508,2PA,3.77,left,left,309,504,3.06,right,N/A
+108,522,2PA,14.19,very left,left,175,520,9.51,left,strong
+393,252,3PA,21.86,very right,right,380,507,5.98,right,strong
+467,294,3PA,21.32,very right,right,348,514,3.80,right,strong
+251,332,2PA,15.78,left,left,200,511,7.96,left,N/A
+496,259,3PA,24.53,very right,right,274,500,4.04,left,weak
+218,218,3PA,24.21,very left,left,297,485,4.45,left,strong
+37,426,3PA,20.97,very left,left,358,501,4.94,right,weak
+358,333,2PA,15.66,right,right,361,486,5.84,right,N/A
+302,431,2PA,8.25,left,left,264,501,4.43,left,N/A
+232,411,2PA,11.01,very left,left,333,503,3.67,right,weak
+362,231,3PA,22.81,right,right,273,496,4.32,left,N/A
+163,408,2PA,14.18,very left,left,271,515,3.37,left,strong
+278,465,2PA,6.16,left,left,275,516,3.12,left,N/A
+543,315,3PA,23.58,very right,right,236,511,5.60,left,weak
+193,224,3PA,24.33,very left,left,345,514,3.63,right,weak
+304,486,2PA,4.34,left,left,281,519,2.67,left,N/A
+417,429,2PA,11.52,very right,right,312,495,3.72,right,strong
+315,241,3PA,21.76,right,right,306,512,2.49,right,N/A
+498,324,3PA,20.92,very right,right,288,517,2.49,left,weak
+310,243,3PA,21.61,right,right,308,506,2.92,right,N/A
+25,466,3PA,20.79,very left,left,176,487,10.18,left,strong
+203,498,2PA,8.11,very left,left,293,501,3.40,left,strong
+21,500,3PA,20.53,very left,left,187,464,10.31,left,strong
+276,241,3PA,21.86,left,left,141,531,11.78,left,N/A
+560,392,3PA,21.15,very right,right,257,491,5.29,left,weak
+26,476,3PA,20.54,very left,left,260,310,17.16,left,strong
+288,486,2PA,4.52,left,left,300,500,3.37,left,N/A
+127,301,3PA,21.63,very left,left,255,514,4.32,left,strong
+212,490,2PA,7.82,very left,left,326,531,1.82,right,weak
+148,286,3PA,21.69,very left,left,358,527,3.96,right,weak
+382,307,2PA,17.90,very right,right,215,494,7.49,left,weak
+104,312,3PA,22.03,very left,left,328,486,4.61,right,weak
+392,501,2PA,6.93,very right,right,318,512,2.63,right,strong
+185,385,2PA,14.37,very left,left,329,494,4.11,right,weak
+359,398,2PA,11.24,right,right,276,466,6.14,left,N/A
+453,282,3PA,21.54,very right,right,336,492,4.45,right,strong
+393,527,2PA,6.35,very right,right,261,524,3.59,left,weak
+518,328,3PA,21.67,very right,right,239,512,5.37,left,weak
+354,479,2PA,5.92,right,right,281,505,3.47,left,N/A
+247,510,2PA,4.95,left,left,255,514,4.32,left,N/A
+404,250,3PA,22.23,very right,right,146,464,12.81,left,weak
+262,223,3PA,23.24,left,left,264,457,7.06,left,N/A
+359,232,3PA,22.71,right,right,340,336,15.19,right,N/A
+77,348,3PA,21.57,very left,left,196,482,9.08,left,strong
+366,476,2PA,6.61,right,right,311,480,4.78,right,N/A
+217,520,2PA,6.61,very left,left,278,527,2.45,left,strong
+405,491,2PA,8.09,very right,right,278,502,3.77,left,weak
