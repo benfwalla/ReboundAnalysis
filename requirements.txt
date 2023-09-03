@@ -101,3 +101,5 @@ wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.6.1
+
+ipywidgets~=8.1.0
